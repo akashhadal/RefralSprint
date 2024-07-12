@@ -32,7 +32,7 @@ const Dictionary = () => {
             />
             <button type="submit" >Search</button>
           </form>
-          <h3>Defination: </h3>
+          <h3>Definition: </h3>
           <div>
             {result && <p>{result}</p>}
           </div>
